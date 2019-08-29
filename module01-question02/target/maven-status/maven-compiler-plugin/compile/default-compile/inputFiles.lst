@@ -1,0 +1,14 @@
+/home/guvenbe/Documents/IdeaProjects/SpringProfessionalExam/module01-examples/module01-question02/src/main/java/com/spring/professional/exam/tutorial/module01/question02/common/renderer/color/FontColorRenderer.java
+/home/guvenbe/Documents/IdeaProjects/SpringProfessionalExam/module01-examples/module01-question02/src/main/java/com/spring/professional/exam/tutorial/module01/question02/common/renderer/color/RedColorRenderer.java
+/home/guvenbe/Documents/IdeaProjects/SpringProfessionalExam/module01-examples/module01-question02/src/main/java/com/spring/professional/exam/tutorial/module01/question02/before/TextRenderer.java
+/home/guvenbe/Documents/IdeaProjects/SpringProfessionalExam/module01-examples/module01-question02/src/main/java/com/spring/professional/exam/tutorial/module01/question02/common/renderer/style/DefaultFontStyleRenderer.java
+/home/guvenbe/Documents/IdeaProjects/SpringProfessionalExam/module01-examples/module01-question02/src/main/java/com/spring/professional/exam/tutorial/module01/question02/common/renderer/style/ItalicStyleRenderer.java
+/home/guvenbe/Documents/IdeaProjects/SpringProfessionalExam/module01-examples/module01-question02/src/main/java/com/spring/professional/exam/tutorial/module01/question02/common/renderer/color/DefaultColorRenderer.java
+/home/guvenbe/Documents/IdeaProjects/SpringProfessionalExam/module01-examples/module01-question02/src/main/java/com/spring/professional/exam/tutorial/module01/question02/after/TextRenderer.java
+/home/guvenbe/Documents/IdeaProjects/SpringProfessionalExam/module01-examples/module01-question02/src/main/java/com/spring/professional/exam/tutorial/module01/question02/common/renderer/weight/FontWeightRenderer.java
+/home/guvenbe/Documents/IdeaProjects/SpringProfessionalExam/module01-examples/module01-question02/src/main/java/com/spring/professional/exam/tutorial/module01/question02/common/renderer/Renderer.java
+/home/guvenbe/Documents/IdeaProjects/SpringProfessionalExam/module01-examples/module01-question02/src/main/java/com/spring/professional/exam/tutorial/module01/question02/after/Runner.java
+/home/guvenbe/Documents/IdeaProjects/SpringProfessionalExam/module01-examples/module01-question02/src/main/java/com/spring/professional/exam/tutorial/module01/question02/before/Runner.java
+/home/guvenbe/Documents/IdeaProjects/SpringProfessionalExam/module01-examples/module01-question02/src/main/java/com/spring/professional/exam/tutorial/module01/question02/common/renderer/style/FontStyleRenderer.java
+/home/guvenbe/Documents/IdeaProjects/SpringProfessionalExam/module01-examples/module01-question02/src/main/java/com/spring/professional/exam/tutorial/module01/question02/common/renderer/weight/BoldFontWeightRenderer.java
+/home/guvenbe/Documents/IdeaProjects/SpringProfessionalExam/module01-examples/module01-question02/src/main/java/com/spring/professional/exam/tutorial/module01/question02/common/renderer/weight/DefaultFontWeightRenderer.java

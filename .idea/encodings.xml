@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-environment-validation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question01" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question03" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question04" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question05" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question06" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question06/module01-question06-boot-cli" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question06/module01-question06-boot-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question06/module01-question06-non-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question06/module01-question06-web-servlet2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question06/module01-question06-web-servlet3-annotation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question06/module01-question06-web-servlet3-xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question07" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question08" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question09" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question09/module01-question09-boot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question09/module01-question09-non-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question09/module01-question09-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question10" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question10/module01-question10-annotations" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question10/module01-question10-java-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question10/module01-question10-scopes" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question10/module01-question10-scopes-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question10/module01-question10-stereotypes" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question11" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question12" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question13" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question14" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question15" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question16" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question17" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question18" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question19" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question20" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question21" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question22" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question23" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question24" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question25" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question26" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question27" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question28" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question29" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question30" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question31" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question32" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question32/module01-question32-servlet-container" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question32/module01-question32-spring-boot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question32/module01-question32-standalone" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question33" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module01-question34" charset="UTF-8" />
+  </component>
+</project>

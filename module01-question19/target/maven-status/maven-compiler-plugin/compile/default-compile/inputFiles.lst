@@ -1,0 +1,14 @@
+/home/guvenbe/Documents/IdeaProjects/SpringProfessionalExam/module01-examples/module01-question19/src/main/java/com/spring/professional/exam/tutorial/module01/question19/proxy/spring/SpringBean.java
+/home/guvenbe/Documents/IdeaProjects/SpringProfessionalExam/module01-examples/module01-question19/src/main/java/com/spring/professional/exam/tutorial/module01/question19/dao/PersonDao.java
+/home/guvenbe/Documents/IdeaProjects/SpringProfessionalExam/module01-examples/module01-question19/src/main/java/com/spring/professional/exam/tutorial/module01/question19/proxy/manual/PersonDaoProxy.java
+/home/guvenbe/Documents/IdeaProjects/SpringProfessionalExam/module01-examples/module01-question19/src/main/java/com/spring/professional/exam/tutorial/module01/question19/proxy/manual/Runner.java
+/home/guvenbe/Documents/IdeaProjects/SpringProfessionalExam/module01-examples/module01-question19/src/main/java/com/spring/professional/exam/tutorial/module01/question19/proxy/cglib/DepartmentDaoMethodInterceptor.java
+/home/guvenbe/Documents/IdeaProjects/SpringProfessionalExam/module01-examples/module01-question19/src/main/java/com/spring/professional/exam/tutorial/module01/question19/dao/DepartmentDao.java
+/home/guvenbe/Documents/IdeaProjects/SpringProfessionalExam/module01-examples/module01-question19/src/main/java/com/spring/professional/exam/tutorial/module01/question19/ds/Department.java
+/home/guvenbe/Documents/IdeaProjects/SpringProfessionalExam/module01-examples/module01-question19/src/main/java/com/spring/professional/exam/tutorial/module01/question19/proxy/spring/ApplicationConfig.java
+/home/guvenbe/Documents/IdeaProjects/SpringProfessionalExam/module01-examples/module01-question19/src/main/java/com/spring/professional/exam/tutorial/module01/question19/proxy/jdk/Runner.java
+/home/guvenbe/Documents/IdeaProjects/SpringProfessionalExam/module01-examples/module01-question19/src/main/java/com/spring/professional/exam/tutorial/module01/question19/proxy/jdk/PersonDaoInvocationHandler.java
+/home/guvenbe/Documents/IdeaProjects/SpringProfessionalExam/module01-examples/module01-question19/src/main/java/com/spring/professional/exam/tutorial/module01/question19/proxy/cglib/Runner.java
+/home/guvenbe/Documents/IdeaProjects/SpringProfessionalExam/module01-examples/module01-question19/src/main/java/com/spring/professional/exam/tutorial/module01/question19/dao/PersonDaoImpl.java
+/home/guvenbe/Documents/IdeaProjects/SpringProfessionalExam/module01-examples/module01-question19/src/main/java/com/spring/professional/exam/tutorial/module01/question19/ds/Person.java
+/home/guvenbe/Documents/IdeaProjects/SpringProfessionalExam/module01-examples/module01-question19/src/main/java/com/spring/professional/exam/tutorial/module01/question19/proxy/spring/Runner.java
